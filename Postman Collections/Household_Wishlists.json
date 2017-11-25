@@ -157,7 +157,7 @@
         ],
         "body": {
           "mode": "raw",
-          "raw": "{\n\t\"email\":  {{email}},\n\t\"firstName\": {{firstName}},\n\t\"lastName\": {{lastName}},\n\t\"householdId\": {{householdId}}\n}"
+          "raw": "{\n  \"email\":  {{email}},\n  \"firstName\": \"Nate\",\n  \"lastName\": {{lastName}},\n  \"householdId\": {{householdId}}\n}"
         },
         "url": "http://{{host}}/users",
         "description": ""
