@@ -64,10 +64,10 @@
         ],
         "body": {
           "mode": "raw",
-          "raw": "{\n\t\"name\": \"Taylor Household\"\n}"
+          "raw": "{\n  \"name\": \"Taylor Household\"\n}"
         },
         "url": "http://{{host}}/households",
-        "description": "This request will generate a new household in the Globomantics' Library API"
+        "description": "This request will generate a new household in the [Globomantics'](http://pluralsight.com) Library API"
       },
       "response": [
         {
